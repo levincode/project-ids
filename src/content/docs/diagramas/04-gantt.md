@@ -1,7 +1,7 @@
 ---
-title: Figura rica
+title: Diagrama de Gantt
 description: A reference page in my new Starlight docs site.
 tableOfContents: false
 ---
 
-![arbol de objetivos](../../../assets/figura-rica.webp)
+![gantt](../../../assets/diagrama-gantt.webp)

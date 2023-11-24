@@ -13,9 +13,6 @@ export default defineConfig({
         // Relative path to your custom CSS file
         "./src/styles/custom.css",
       ],
-      social: {
-        facebook: "https://github.com/withastro/starlight",
-      },
       sidebar: [
         {
           label: "Contenido",
